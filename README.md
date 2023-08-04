@@ -1,3 +1,7 @@
-# realtime_object_detection
+# Lesson 4
 
-in refrence to tutorial: https://youtu.be/zs43IrWTzB0
+<a href="https://www.tensorflow.org/lite/examples/object_detection/overview?hl=ru">Tensorflow</a>
+
+
+
+
